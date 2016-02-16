@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hectorisboetiimu00boecuoft_0002.png"; bbox 0 0 2944 3906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 577 486 1164 540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 577 486 1164 540">
+     <span class='ocr_line' id='line_1_1' title="bbox 577 486 1164 540; baseline 0.015 -9"><span class='ocrx_word' id='word_1_1' title='bbox 577 486 643 531; x_wconf 72' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_2' title='bbox 694 487 922 536; x_wconf 77' lang='grc' dir='ltr'><strong>750.Βέ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 973 491 1043 537; x_wconf 85' lang='grc' dir='ltr'><strong>ΝΟ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1095 493 1164 540; x_wconf 69' lang='lat'><strong>1]-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 740 1600 2176 2916">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 740 1600 2176 2916">
+     <span class='ocr_line' id='line_1_2' title="bbox 740 1600 2176 2916; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 740 1600 2176 2916; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1083 2947 1755 3107">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1083 2947 1755 3107">
+     <span class='ocr_line' id='line_1_3' title="bbox 1083 2947 1755 2996; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 1083 2947 1395 2996; x_wconf 76' lang='lat' dir='ltr'>UNWERSU&#39;Y</span> <span class='ocrx_word' id='word_1_7' title='bbox 1427 2947 1506 2996; x_wconf 79' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1540 2947 1755 2996; x_wconf 76' lang='lat' dir='ltr'><strong>GUELPH</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1208 3041 1641 3107; baseline 0.018 -12"><span class='ocrx_word' id='word_1_9' title='bbox 1208 3041 1340 3092; x_wconf 62' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1373 3048 1641 3107; x_wconf 69' lang='lat' dir='ltr'><strong>D1v181on</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hectorisboetiimu00boecuoft_0007.png"; bbox 0 0 2944 3906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 578 2194 692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 462 578 2194 692">
+     <span class='ocr_line' id='line_1_1' title="bbox 462 578 2194 692; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 462 578 1413 689; x_wconf 86' lang='lat' dir='ltr'>HECTORIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1528 582 2194 692; x_wconf 88' lang='grc' dir='ltr'>ΒΟΕΤΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 262 979 2385 1048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 262 979 2385 1048">
+     <span class='ocr_line' id='line_1_2' title="bbox 262 979 2385 1048; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 262 979 1245 1047; x_wconf 86' lang='lat' dir='ltr'>MURTHLACENSIUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1295 979 1426 1043; x_wconf 88' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1480 981 2385 1048; x_wconf 87' lang='lat' dir='ltr'>ABERDONENSIUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 764 1309 1885 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 764 1309 1885 1392">
+     <span class='ocr_line' id='line_1_3' title="bbox 764 1309 1885 1392; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 764 1309 1885 1392; x_wconf 88' lang='lat' dir='ltr'>EPISCOPORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 965 1648 1679 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 965 1648 1679 1776">
+     <span class='ocr_line' id='line_1_4' title="bbox 965 1648 1679 1776; baseline -0.001 -20"><span class='ocrx_word' id='word_1_7' title='bbox 965 1648 1679 1776; x_wconf 83' lang='lat' dir='ltr'>VITAE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 587 2024 2062 2092">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 587 2024 2062 2092">
+     <span class='ocr_line' id='line_1_5' title="bbox 587 2024 2062 2092; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 587 2026 996 2092; x_wconf 85' lang='lat' dir='ltr'>ITERUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1058 2027 1177 2091; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1235 2025 1589 2091; x_wconf 90' lang='lat' dir='ltr'><strong>LUCEM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1647 2024 2062 2089; x_wconf 83' lang='lat' dir='ltr'>EDITAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 688 2925 1947 3190">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 688 2925 1947 3190">
+     <span class='ocr_line' id='line_1_6' title="bbox 688 2925 1947 3039; baseline -0.01 -8"><span class='ocrx_word' id='word_1_12' title='bbox 688 2962 1295 3039; x_wconf 79' lang='lat' dir='ltr'>EDINBURGL</span> <span class='ocrx_word' id='word_1_13' title='bbox 1321 2925 1947 3024; x_wconf 69' lang='lat' dir='ltr'><strong>M.Dcc(:.xxv.&#39;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1440 3121 1449 3190; baseline -0.042 0"><span class='ocrx_word' id='word_1_14' title='bbox 1440 3121 1449 3190; x_wconf 68' lang='lat'><em>1</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
